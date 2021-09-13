@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3025" started-at="2021-09-13T13:54:09 CLST" finished-at="2021-09-13T13:54:12 CLST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3025" started-at="2021-09-13T13:54:09 CLST" finished-at="2021-09-13T13:54:12 CLST">
+      <class name="viveZana.Prueba">
+        <test-method status="PASS" signature="setup()[pri:0, instance:viveZana.Prueba@4bbfb90a]" name="setup" is-config="true" duration-ms="2248" started-at="2021-09-13T13:54:09 CLST" finished-at="2021-09-13T13:54:12 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="google()[pri:0, instance:viveZana.Prueba@4bbfb90a]" name="google" duration-ms="87" started-at="2021-09-13T13:54:12 CLST" finished-at="2021-09-13T13:54:12 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:viveZana.Prueba@4bbfb90a]" name="tearDown" is-config="true" duration-ms="661" started-at="2021-09-13T13:54:12 CLST" finished-at="2021-09-13T13:54:12 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- viveZana.Prueba -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
